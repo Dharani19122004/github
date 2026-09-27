@@ -1,0 +1,11 @@
+html {
+  font-size: 128x;
+}
+body {
+  background-color: #333;
+  color: whitesmoke;
+}
+a:visited,
+:active {
+  color: gray;
+}
